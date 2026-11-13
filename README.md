@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Header Banner Cinza Escuro & Dourado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121214,60:1c1c21,100:ca8a04&height=220&section=header&text=Vitor%20Hugo%20👑&fontSize=42&fontAlignY=38&desc=Criador%20do%20Ecossistema%20Vantinha%20%7C%20TypeScript%20%26%20Bots&descAlignY=60&descAlign=50&fontColor=facc15" width="100%" />
+  <!-- Header Banner Limpo & Dourado (Sem bugs de URL) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121214,60:1c1c21,100:ca8a04&height=200&section=header&text=Vitor%20Hugo&fontSize=42&fontAlignY=38&desc=Criador%20do%20Ecossistema%20Vantinha%20%7C%20TypeScript%20e%20Bots&descAlignY=60&descAlign=50&fontColor=facc15" width="100%" />
 
-  <!-- Efeito Typewriter Dourado -->
+  <!-- Efeito Typewriter Estável -->
   <a href="https://github.com/vitordevmm">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F59E0B&center=true&vCenter=true&width=520&lines=👑+Criador+do+Vantinha+Bot+%26+Vantasite;🚀+Desenvolvedor+TypeScript+%26+Node.js;⚡+Automação+e+Comunidades+no+Discord;🎮+Programando+por+pura+diversão!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F59E0B&center=true&vCenter=true&width=500&lines=Criador+do+Vantinha+Bot+e+Vantasite;Desenvolvedor+TypeScript+e+Node.js;Automacao+e+Comunidades+no+Discord;Programando+por+pura+diversao!" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -18,27 +18,23 @@
 
 ### 👑 Destaque Principal: O Ecossistema Vantinha
 
-O **Vantinha** é o meu projeto principal atual — uma solução completa unindo bot de comunidade e plataforma web:
-
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <br />
       <img src="https://img.shields.io/badge/ONLINE-🤖%20Vantinha%20Bot-18181b?style=for-the-badge&labelColor=18181b&color=F59E0B" />
-      <br /><br />
-      <p><b>Bot oficial para Discord</b> desenvolvido em <b>TypeScript</b>, com foco em comandos interativos, utilidades, agilidade e engajamento da comunidade.</p>
+      <p>Bot oficial para Discord em <b>TypeScript</b>. Focado em comandos interativos, utilidades, agilidade e engajamento da comunidade.</p>
       <a href="https://github.com/vitordevmm/vantinha">
-        <img src="https://img.shields.io/badge/Acessar_Código-18181b?style=flat-square&logo=github&logoColor=facc15&labelColor=18181b" />
+        <img src="https://img.shields.io/badge/Acessar_Repositório-18181b?style=for-the-badge&logo=github&logoColor=F59E0B" />
       </a>
       <br /><br />
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <br />
       <img src="https://img.shields.io/badge/ONLINE-🌐%20Vantasite-18181b?style=for-the-badge&labelColor=18181b&color=F59E0B" />
-      <br /><br />
-      <p><b>Interface web do Vantinha</b>. Plataforma visual para conectar os usuários com as informações, status e novidades do bot.</p>
+      <p>Interface web e portal oficial do <b>Vantinha</b>. Plataforma visual para conectar usuários ao bot, recursos e atualizações.</p>
       <a href="https://github.com/vitordevmm/vantasite">
-        <img src="https://img.shields.io/badge/Acessar_Código-18181b?style=flat-square&logo=github&logoColor=facc15&labelColor=18181b" />
+        <img src="https://img.shields.io/badge/Acessar_Repositório-18181b?style=for-the-badge&logo=github&logoColor=F59E0B" />
       </a>
       <br /><br />
     </td>
@@ -47,37 +43,38 @@ O **Vantinha** é o meu projeto principal atual — uma solução completa unind
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 🛠️ Minhas Stacks & Tecnologias
 
-- 💻 **Especialidade:** Criação e arquitetura de bots interativos em TypeScript.
-- ⚡ **Tecnologias centrais:** TypeScript, JavaScript moderno, Node.js, Bun e Discord API.
-- 🎯 **Filosofia:** Criar aplicações úteis, bem estruturadas e programar por paixão e diversão.
-- 🏆 **Foco 100% ativo:** Evolução contínua do bot **Vantinha** e do portal **Vantasite**.
+#### 🚀 Linguagens & Runtimes
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-18181b?style=for-the-badge&logo=typescript&logoColor=F59E0B" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-18181b?style=for-the-badge&logo=javascript&logoColor=F59E0B" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-18181b?style=for-the-badge&logo=node.js&logoColor=F59E0B" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Bun-18181b?style=for-the-badge&logo=bun&logoColor=F59E0B" alt="Bun" />
+</p>
+
+#### 🤖 Bots & Web
+<p align="left">
+  <img src="https://img.shields.io/badge/Discord.js-18181b?style=for-the-badge&logo=discord&logoColor=F59E0B" alt="Discord.js" />
+  <img src="https://img.shields.io/badge/Discord_API-18181b?style=for-the-badge&logo=discord&logoColor=F59E0B" alt="Discord API" />
+  <img src="https://img.shields.io/badge/HTML5-18181b?style=for-the-badge&logo=html5&logoColor=F59E0B" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-18181b?style=for-the-badge&logo=css3&logoColor=F59E0B" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-18181b?style=for-the-badge&logo=tailwind-css&logoColor=F59E0B" alt="Tailwind CSS" />
+</p>
+
+#### ⚙️ Ferramentas & Ambiente
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=F59E0B" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=F59E0B" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-18181b?style=for-the-badge&logo=visual-studio-code&logoColor=F59E0B" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PowerShell-18181b?style=for-the-badge&logo=powershell&logoColor=F59E0B" alt="PowerShell" />
+</p>
 
 ---
 
-### 🛠️ Stack & Tecnologias
+### 📊 Estatísticas
 
 <div align="center">
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens & Runtimes** | ![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=F59E0B) ![JavaScript](https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=F59E0B) ![Node.js](https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=node.js&logoColor=F59E0B) ![Bun](https://img.shields.io/badge/Bun-18181b?style=flat-square&logo=bun&logoColor=F59E0B) |
-| **Bots & Ecossistema Web** | ![Discord](https://img.shields.io/badge/Discord%20API-18181b?style=flat-square&logo=discord&logoColor=F59E0B) ![HTML5](https://img.shields.io/badge/HTML5-18181b?style=flat-square&logo=html5&logoColor=F59E0B) ![CSS3](https://img.shields.io/badge/CSS3-18181b?style=flat-square&logo=css3&logoColor=F59E0B) |
-| **Ferramentas de Dev** | ![Git](https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git&logoColor=F59E0B) ![GitHub](https://img.shields.io/badge/GitHub-18181b?style=flat-square&logo=github&logoColor=F59E0B) ![VS Code](https://img.shields.io/badge/VS%20Code-18181b?style=flat-square&logo=visual-studio-code&logoColor=F59E0B) |
-
-</div>
-
----
-
-### 📊 Estatísticas (Dark & Gold)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitordevmm&show_icons=true&bg_color=18181b&title_color=f59e0b&text_color=e4e4e7&icon_color=fbbf24&border_color=27272a&border_radius=10&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordevmm&layout=compact&bg_color=18181b&title_color=f59e0b&text_color=e4e4e7&icon_color=fbbf24&border_color=27272a&border_radius=10" height="165" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitordevmm&background=18181b&border=27272a&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakNum=f59e0b&sideNums=e4e4e7&sideLabels=a1a1aa&dates=a1a1aa" alt="GitHub Streak" />
 </div>
 
@@ -85,20 +82,15 @@ O **Vantinha** é o meu projeto principal atual — uma solução completa unind
 
 ### 📬 Conecte-se comigo
 
-<div align="center">
-
+<p align="center">
   <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-18181b?style=for-the-badge&logo=discord&logoColor=F59E0B&labelColor=18181b" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-18181b?style=for-the-badge&logo=discord&logoColor=F59E0B" alt="Discord" />
   </a>
   <a href="https://github.com/vitordevmm" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=F59E0B&labelColor=18181b" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=F59E0B" alt="GitHub" />
   </a>
-
-</div>
-
-<br />
+</p>
 
 <div align="center">
-  <!-- Rodapé Ondulado com gradiente cinza escuro para dourado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121214,60:1c1c21,100:ca8a04&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121214,60:1c1c21,100:ca8a04&height=80&section=footer" width="100%" />
 </div>
